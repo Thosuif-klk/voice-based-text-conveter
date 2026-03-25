@@ -1,0 +1,5 @@
+{
+  "name": "Vasanth Transcribe",
+  "description": "A real-time speech-to-text application with an elegant interface.",
+  "requestFramePermissions": ["microphone"]
+}
